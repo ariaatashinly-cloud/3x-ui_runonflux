@@ -1,4 +1,0 @@
-framework: go
-port: 2053
-build: go build -o app .
-start: ./app
